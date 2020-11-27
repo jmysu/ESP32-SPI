@@ -3,12 +3,12 @@ Some SPI related notes...
  
 
 
-## Wires to connect SPI SD/TF card <br>
+### Wires to connect SPI SD/TF card <br>
 Use ESP32's VSPI , works on Arduino SdFat library<br>
-<img src="pic/ESP32-SD.jpg" width=900 /> &nbsp;&nbsp;&nbsp;<br><br>
+<img src="pic/ESP32-SD.jpg" width=800 /> &nbsp;&nbsp;&nbsp;<br><br>
 <img src="pic/SdInfo.jpg" width=400 /> &nbsp;<img src="pic/SdBench.jpg" width=400 /><br><br>
 
 
 
-## References
+### References
   - [Arduino SdFat V2](https://github.com/greiman/SdFat) Arduino library SdFat.
