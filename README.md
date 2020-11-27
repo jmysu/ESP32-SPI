@@ -5,8 +5,8 @@ Some SPI related notes...
 
 ## Wires to connect SPI SD/TF card <br>
 Use ESP32's VSPI , works on Arduino SdFat library<br>
-<img src="pic/ESP32-SD.jpg" width=800 /> &nbsp;&nbsp;&nbsp;<br><br>
-<img src="pic/SdInfo.jpg" width=480 /> &nbsp;<img src="pic/SdBench.jpg" width=480 /><br><br>
+<img src="pic/ESP32-SD.jpg" width=900 /> &nbsp;&nbsp;&nbsp;<br><br>
+<img src="pic/SdInfo.jpg" width=400 /> &nbsp;<img src="pic/SdBench.jpg" width=400 /><br><br>
 
 
 
